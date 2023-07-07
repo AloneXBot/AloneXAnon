@@ -707,6 +707,7 @@ def telegram_markup(_, chat_id):
             ),
             InlineKeyboardButton(
                 text="❀⋟ 𝐃єνєℓσρєя ⋞❀", url="https://t.me/ALONE_WAS_BOT"
+            ),
         ],
         [
             InlineKeyboardButton(
